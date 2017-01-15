@@ -26,6 +26,14 @@
 
 #include "SSD1306Ascii.h"
 #include "utility/DigitalOutput.h"
+
+#ifdef OLED_D0
+  #define OLED_CLK   OLED_D0
+#endif
+#ifdef OLED_D1
+  #define OLED_DATA  OLED_D1
+#endif
+
 /**
  * @class SSD1306AsciiSoftSpi
  * @brief Class for SPI displays using software SPI.
