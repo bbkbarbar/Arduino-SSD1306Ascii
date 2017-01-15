@@ -1,3 +1,6 @@
+This repository forked from: https://github.com/greiman/SSD1306Ascii
+and refactored to able to store completly @ arduino libraries folder.
+
 SSD1306Ascii is an unbuffered character only library for small OLED
 displays like the Adafruit 1.3" and 0.96" Monochrome displays.
 
