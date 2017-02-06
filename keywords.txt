@@ -2,9 +2,16 @@
 set2X	KEYWORD2
 set1X	KEYWORD2
 setFont	KEYWORD2
+setCol	KEYWORD2
+setContrast	KEYWORD2
+setCursor	KEYWORD2
+setScroll	KEYWORD2
+fontHeight	KEYWORD2
+fontWidth	KEYWORD2
 
 // Constants
 Adafruit128x64	KEYWORD1
+Adafruit128x32	KEYWORD1
 
 // Font types
 Adafruit5x7	KEYWORD1
