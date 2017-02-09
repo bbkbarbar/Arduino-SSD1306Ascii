@@ -1,5 +1,5 @@
 # Arduino library for SSD1306 based OLED display
-## for using only with Ascii characters
+for using only with Ascii characters
 
 Note: This repository forked from: https://github.com/greiman/SSD1306Ascii
 and refactored to able to store completly @ arduino libraries folder.
