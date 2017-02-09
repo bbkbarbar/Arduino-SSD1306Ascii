@@ -3,7 +3,7 @@ for using only with Ascii characters
 
 Note: This repository forked from: https://github.com/greiman/SSD1306Ascii
 and refactored to able to store completly @ arduino libraries folder.
-This library as able to pull completly into ```c:\Program Files (x86)\Arduino\libraries\ ``` folder for using on [Arduino IDE](https://www.arduino.cc/en/main/software) easily.
+This library as able to pull completly into ```c:\Program Files (x86)\Arduino\libraries\ ``` folder for using with [Arduino IDE](https://www.arduino.cc/en/main/software) easily.
 
 ## Introduction
 SSD1306Ascii is an unbuffered character only library for small OLED
