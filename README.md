@@ -24,6 +24,12 @@ Maximum is 32,256 bytes. <br>
 Global variables <b>use 53 bytes (2%) of </b>dynamic <b>memory</b>, leaving 1,995
 bytes for local variables. Maximum is 2,048 bytes.
 
+## Installion
+
+- Clone or [download as a .zip file](https://github.com/bbkbarbar/Arduino-SSD1306Ascii/archive/master.zip) and unpack this repository directly into  "libraries" folder of Arduino IDE (e.g.: *c:\Program Files (x86)\Arduino\libraries\* )
+- Restart Arduino IDE.
+- Now you can find and use this library from *Sketch > Include library > "SSD1306Ascii"*
+
 ## Collaboration
 This library is still in development so the API and features may
 change. The library may have bugs. <br>
