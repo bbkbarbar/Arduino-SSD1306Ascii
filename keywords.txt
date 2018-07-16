@@ -2,7 +2,7 @@ SSD1306Ascii	KEYWORD1
 SSD1306AsciiSoftSpi	KEYWORD1
 SSD1306AsciiAvrI2c	KEYWORD1
 
-// Functions
+# Functions
 set2X	KEYWORD2
 set1X	KEYWORD2
 setFont	KEYWORD2
@@ -13,7 +13,7 @@ setScroll	KEYWORD2
 fontHeight	KEYWORD2
 fontWidth	KEYWORD2
 
-// Macros
+# Macros
 OLED_CS	KEYWORD3
 OLED_DC	KEYWORD3
 OLED_D0	KEYWORD3
@@ -23,11 +23,11 @@ OLED_DATA	KEYWORD3
 OLED_RST	KEYWORD3
 
 
-// Constants
+# Constants
 Adafruit128x64	LITERAL1
 Adafruit128x32	LITERAL1
 
-// Font types
+# Font types
 Adafruit5x7	LITERAL1
 Arial_bold_14	LITERAL1
 Arial14	LITERAL1
